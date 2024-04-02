@@ -9,4 +9,8 @@ class Car {
         // The Car class controls the creation of Wheel objects.
         this.wheel = new Wheel();
     }
+    public Motors(){
+        //New Function
+        this.wheel = new Wheel();
+    }
 }
