@@ -15,5 +15,12 @@ public class Cat{
         this.age = age;
         this.name = name;
     }
+    //Add a new function
+    public superCat(String name, int age){
+        this.age = age;
+        this.name = name;
+
+    }
 }
+
 
