@@ -10,7 +10,7 @@ public class TestSuite {
 public class Cat{
     private String name;
     private int age;
-
+    // This is a Cat function
     public Cat(String name, int age){
         this.age = age;
         this.name = name;
